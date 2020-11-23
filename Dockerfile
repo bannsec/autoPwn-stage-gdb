@@ -1,4 +1,4 @@
-FROM shellphish/mechaphish
+FROM angr/angr
 
 USER root
 
